@@ -1,6 +1,6 @@
 # Chat App with React,Mongo DB and Socket.io
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Consist of cliet, api and scoket branches
 
 ## Available Scripts
 
