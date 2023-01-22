@@ -1,6 +1,6 @@
 # Chat App with React,Mongo DB and Socket.io
 
-Consist of cliet, api and scoket branches
+## Consist of client, api and scoket branches
 
 ## Available Scripts
 
